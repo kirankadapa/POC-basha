@@ -1,0 +1,3 @@
+/mnt/c/Users/kadap/project/build/CMakeFiles/MyProject.dir
+/mnt/c/Users/kadap/project/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kadap/project/build/CMakeFiles/rebuild_cache.dir
